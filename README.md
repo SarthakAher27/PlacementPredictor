@@ -20,7 +20,7 @@ To understand key academic and demographic factors influencing student placement
 
 ## 📂 Dataset
 
-- **Source**: [Campus Placement Dataset](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement)
+- **Source**: [Campus Placement Dataset](https://www.kaggle.com/datasets/durgeshrao9993/college-placement-data-set)
 - **Key Features**:
   - `gender`, `ssc_p`, `ssc_b`, `hsc_p`, `hsc_b`, `hsc_s`
   - `degree_p`, `degree_t`, `workex`, `etest_p`, `mba_p`
